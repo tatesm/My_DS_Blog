@@ -21,7 +21,7 @@
 title: My Data Science Blog
 email: author_email@email.com
 description: "My first data science blog, mainly for my projects" 
-baseurl: "/My_DS_Blog" # the name of the repository 
+baseurl: "My_DS_Blog" # the name of the repository 
 url: "https://tatesm.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/headerimg.jpg
 author: Tate Smith
