@@ -22,7 +22,7 @@ title: My Data Science Blog
 email: author_email@email.com
 description: "My first data science blog, mainly for my projects" 
 baseurl: "/My_DS_Blog-blog-theme" # the name of the repository 
-url: "https://tatems.github.io" #  change this to "https://<your-github-username>.github.io"
+url: "https://tatesm.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/headerimg.jpg
 author: Tate Smith
 copyright: ABCD # Your initials or name or what you want the copyright to be.  Leave empty for no copyright
@@ -31,7 +31,7 @@ footer_description:
 
 # Social media users names.  Leave fields blank that you don't want displayed
 twitter_username: 
-github_username:  tatems
+github_username:  tatesm
 linkedin_username: 
 dribbble_username: 
 facebook_username: 
